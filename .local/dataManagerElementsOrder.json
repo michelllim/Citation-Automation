@@ -1,0 +1,72 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "NoBalaRavaPackage.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ogPdf&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Method 2 (ManualFolder).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileName&Sequence_4",
+        "arrFiles&Sequence_1",
+        "FolderPath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Method 1 (AutoFolder).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FolderPath&Sequence_1",
+        "arrFiles&Sequence_1",
+        "FileName&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Method 1 (AutoFile).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileName&Sequence_1",
+        "FilePath&Sequence_1",
+        "FolderPath&Sequence_1",
+        "arrFiles&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Method 2 (ManualFile).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileName&Sequence_1",
+        "FilePath&Sequence_1",
+        "FolderPath&Sequence_1",
+        "arrFiles&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
